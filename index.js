@@ -1,4 +1,4 @@
-const myname = "anirudha"
+const myname = "anirudha g"
 console.log(myname);
 
 
